@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Natural Gas Storage Contract Pricing Tool
 
 This is a simple desktop application built with Tkinter that allows you to price a natural gas storage contract. The application uses historical natural gas prices and Facebook Prophet for forecasting to calculate the net contract value based on user inputs.
@@ -93,3 +94,6 @@ Natural_Gas_Contract_Pricing/
 
 
 
+=======
+# GasValuator
+>>>>>>> c21d70df1809ad16e14dcffcbc466b41f5834a2d
