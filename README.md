@@ -67,6 +67,7 @@ python your_script_name.py
 Natural_Gas_Contract_Pricing/
 ├── Nat_Gas.csv                # Historical natural gas prices CSV file
 ├── screenshot
+├── .gitattributes
 ├── PrototypePricingModel.py        # Main Python script with the Tkinter GUI and contract pricing logic
 └── README.md                  # This file
 ```
