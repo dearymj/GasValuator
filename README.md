@@ -1,5 +1,7 @@
 # Natural Gas Storage Contract Pricing Tool
 
+Project Summary: https://www.linkedin.com/in/mj-yuan-786678324/details/projects/
+
 This is a simple desktop application built with Tkinter that allows you to price a natural gas storage contract. The application uses historical natural gas prices and Facebook Prophet for forecasting to calculate the net contract value based on user inputs.
 
 ![Application Screenshot](screenshot.png)
